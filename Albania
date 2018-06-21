@@ -1,0 +1,161 @@
+#EXTM3U
+#EXTINF:-1,RTK SD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/77.ts
+#EXTINF:-1,AL:RTK1
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/2.ts
+#EXTINF:-1,AL:RTK3
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/3.ts
+#EXTINF:-1,AL:RTK4
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/4.ts
+#EXTINF:-1,AL:RTV21
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/5.ts
+#EXTINF:-1,AL:KTV
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/11.ts
+#EXTINF:-1,AL:Klan TV
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/14.ts
+#EXTINF:-1,AL:Klan Kosova
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/12.ts
+#EXTINF:-1,AL:T HD Channel
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/51.ts
+#EXTINF:-1,TV liria
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/75.ts
+#EXTINF:-1,AL:Alsat M
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/17.ts
+#EXTINF:-1,RTSH Sport
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/76.ts
+#EXTINF:-1,AL: ShqipTV Cinema HD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/72.ts
+#EXTINF:-1,AL: ShqipTV Aksion HD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/73.ts
+#EXTINF:-1,AL: ShqipTV Western HD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/67.ts
+#EXTINF:-1,AL: ShqipTV Tom & Jerry HD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/68.ts
+#EXTINF:-1,AL: ShqipTV Komedi HD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/69.ts
+#EXTINF:-1,AL: ShqipTV Horror HD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/70.ts
+#EXTINF:-1,AL: ShqipTV Hindi HD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/74.ts
+#EXTINF:-1,AL: ShqipTV Film HD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/71.ts
+#EXTINF:-1,AL:Film Thriller
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/41.ts
+#EXTINF:-1,AL:Film Nje HD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/38.ts
+#EXTINF:-1,AL:Film Komedi
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/45.ts
+#EXTINF:-1,AL:Film Hits
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/42.ts
+#EXTINF:-1,AL:Film Dy HD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/39.ts
+#EXTINF:-1,AL:Film Dram
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/44.ts
+#EXTINF:-1,AL:Film Autor
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/43.ts
+#EXTINF:-1,AL:Film Aksion
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/40.ts
+#EXTINF:-1,AL:Digi Gold 4 HD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/37.ts
+#EXTINF:-1,AL:Digi Gold 3 HD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/36.ts
+#EXTINF:-1,AL:Digi Gold 2 HD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/35.ts
+#EXTINF:-1,AL:Digi Gold 1 HD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/34.ts
+#EXTINF:-1,AL:Digi Gold
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/33.ts
+#EXTINF:-1,AL: ALB Western
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/62.ts
+#EXTINF:-1,AL: ALB Thriller
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/63.ts
+#EXTINF:-1,AL: ALB Humor 2
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/64.ts
+#EXTINF:-1,AL: ALB Humor 1
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/65.ts
+#EXTINF:-1,AL: ALB Action
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/66.ts
+#EXTINF:-1,AL:Zico Tv
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/26.ts
+#EXTINF:-1,AL:Vizion Plus
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/16.ts
+#EXTINF:-1,AL:TVSH
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/20.ts
+#EXTINF:-1,AL:TV Sharri HD
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/28.ts
+#EXTINF:-1,AL:TV Mitrovica
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/23.ts
+#EXTINF:-1,AL:Tring Aksion
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/27.ts
+#EXTINF:-1,AL:Top News
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/18.ts
+#EXTINF:-1,AL:Top Channel
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/13.ts
+#EXTINF:-1,AL:Sky Max
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/47.ts
+#EXTINF:-1,AL:Sky Histori
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/50.ts
+#EXTINF:-1,AL:Sky Drama
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/48.ts
+#EXTINF:-1,AL:Sky Comedy
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/49.ts
+#EXTINF:-1,AL:Sky Aksion
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/46.ts
+#EXTINF:-1,AL:RTV21 Popullor
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/9.ts
+#EXTINF:-1,AL:RTV21 Plu
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/8.ts
+#EXTINF:-1,AL:RTV21 Mix
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/7.ts
+#EXTINF:-1,AL:RTV21 Maqedonia
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/6.ts
+#EXTINF:-1,AL:RTV21 junior
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/10.ts
+#EXTINF:-1,AL:RROKUM TV
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/22.ts
+#EXTINF:-1,AL:OraNews
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/21.ts
+#EXTINF:-1,AL:News24
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/19.ts
+#EXTINF:-1,AL:MusicAL
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/32.ts
+#EXTINF:-1,AL:Folklorit
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/31.ts
+#EXTINF:-1,AL:Folk -Tring TV
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/30.ts
+#EXTINF:-1,AL:BBF
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/25.ts
+#EXTINF:-1,AL:ABC News
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/24.ts
+#EXTINF:-1,AL: KLAN Plus
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/15.ts
+#EXTINF:-1,BeIN Sport 1 HD (AR)
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/52.ts
+#EXTINF:-1,BeIN SPORTS 2 HD (AR)
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/53.ts
+#EXTINF:-1,BeIN SPORTS 3 HD (AR)
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/54.ts
+#EXTINF:-1,BeIN SPORTS 4 HD (AR)
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/55.ts
+#EXTINF:-1,BeIN SPORTS 5 HD (AR)
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/56.ts
+#EXTINF:-1,BeIN SPORTS 6 HD (AR)
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/57.ts
+#EXTINF:-1,BeIN SPORTS 7 HD (AR)
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/58.ts
+#EXTINF:-1,BeIN SPORTS 8 HD (AR).
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/59.ts
+#EXTINF:-1,BeIN Sorts 9 HD (AR)
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/60.ts
+#EXTINF:-1,BeIN SPORTS 10 HD (AR)
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/61.ts
+#EXTINF:-1,SkySport 1 Italy
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/78.ts
+#EXTINF:-1,SkySport 2 Italy
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/79.ts
+#EXTINF:-1,SkySport 3 Italy
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/80.ts
+#EXTINF:-1,SkyCalcio 1 Italy
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/81.ts
+#EXTINF:-1,SkyCalcio 2 Italy
+http://178.251.228.64:8000/live/freetv/iptv-per-shqiptaret/82.ts
