@@ -62,12 +62,16 @@ http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/26.ts
 http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10995.ts
 #EXTINF:-1,OSN Demand Extra ARB
 http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/9.ts
+#EXTINF:-1,OSN Discovery Channel HD VIP ARB
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/9249.ts
 #EXTINF:-1,OSN Discovery Channel VIP ARB
 http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10994.ts
 #EXTINF:-1,OSN Discovery Family HD  1 VIP ARB
 http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10990.ts
 #EXTINF:-1,OSN Discovery Family HD VIP ARB
 http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/9248.ts
+#EXTINF:-1,OSN Discovery HD ARB
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/23.ts
 #EXTINF:-1,OSN Discovery History ARB
 http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/22.ts
 #EXTINF:-1,OSN Discovery IDX HD  1 VIP ARB
@@ -262,6 +266,8 @@ http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/13.ts
 http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/9210.ts
 #EXTINF:-1,OSN Nickelodeon VIP ARB
 http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10946.ts
+#EXTINF:-1,OSN ON Demande 1 ARB
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/394.ts
 #EXTINF:-1,OSN ON Demande 2 ARB
 http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/393.ts
 #EXTINF:-1,OSN ON Demande 3 ARB
@@ -612,6 +618,8 @@ http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/6963.ts
 http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/986.ts
 #EXTINF:-1,beINSport 10 HD ARB
 http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/970.ts
+#EXTINF:-1,beINSport 10 HD VIP ARB
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/6954.ts
 #EXTINF:-1,beINSport 11 ARB
 http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/985.ts
 #EXTINF:-1,beINSport 11 HD ARB
@@ -1514,3 +1522,127 @@ http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/14696.ts
 http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/14697.ts
 #EXTINF:-1,beIN Sports Max 4 FHD VIP ARB
 http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/14698.ts
+#EXTINF:-1,MTV Kosova AL
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/116.ts
+#EXTINF:-1,MTV NL
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/4527.ts
+#EXTINF:-1,MTV HD NL
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/4526.ts
+#EXTINF:-1,MTV Music 24 NL
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/4525.ts
+#EXTINF:-1,MTV Dance HD PL
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/4534.ts
+#EXTINF:-1,MTV FHD PL
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10454.ts
+#EXTINF:-1,MTV Live FHD PL
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10455.ts
+#EXTINF:-1,MTV Polska PL
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/4545.ts
+#EXTINF:-1,MTV ES
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/6046.ts
+#EXTINF:-1,MTV Rocks ES ES
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/6045.ts
+#EXTINF:-1,MTV Europe CZ
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/4197.ts
+#EXTINF:-1,MTV IN
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/2842.ts
+#EXTINF:-1,MTV 1 MK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/2490.ts
+#EXTINF:-1,MTV PT
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/2724.ts
+#EXTINF:-1,MTV VN
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/13669.ts
+#EXTINF:-1,MTV BR
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/3362.ts
+#EXTINF:-1,MTV DANCE HU
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/9432.ts
+#EXTINF:-1,MTV EU HU
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/9488.ts
+#EXTINF:-1,MTV FR
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/4055.ts
+#EXTINF:-1,MTV FHD FR
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/8897.ts
+#EXTINF:-1,MTV Base FR
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/4056.ts
+#EXTINF:-1,MTV Hits FR
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/4057.ts
+#EXTINF:-1,MTV HITS FHD FR
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/8896.ts
+#EXTINF:-1,MTV Music FR
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/4058.ts
+#EXTINF:-1,MTV FHD DE
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/9338.ts
+#EXTINF:-1,MTV Brand New DE
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/9321.ts
+#EXTINF:-1,MTV Dance DE
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/3853.ts
+#EXTINF:-1,MTV Hits DE
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/9320.ts
+#EXTINF:-1,MTV ROCKS DE
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/9318.ts
+#EXTINF:-1,MTV TH
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/8297.ts
+#EXTINF:-1,MTV +1 UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/1834.ts
+#EXTINF:-1,MTV 1 VIP UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10690.ts
+#EXTINF:-1,MTV Base UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/1836.ts
+#EXTINF:-1,MTV Base VIP UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10689.ts
+#EXTINF:-1,MTV Classic UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/1837.ts
+#EXTINF:-1,MTV Classic VIP UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10675.ts
+#EXTINF:-1,MTV Dance UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/1838.ts
+#EXTINF:-1,MTV Dance VIP UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10686.ts
+#EXTINF:-1,MTV FHD VIP UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10856.ts
+#EXTINF:-1,MTV Hits UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/1839.ts
+#EXTINF:-1,MTV Hits VIP UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10685.ts
+#EXTINF:-1,MTV Live FHD VIP UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10855.ts
+#EXTINF:-1,MTV Music +1 VIP UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10682.ts
+#EXTINF:-1,MTV Music UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/1840.ts
+#EXTINF:-1,MTV Music VIP UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10683.ts
+#EXTINF:-1,MTV Rocks VIP UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10681.ts
+#EXTINF:-1,MTV UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/1835.ts
+#EXTINF:-1,MTV VIP UK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/10692.ts
+#EXTINF:-1,MTV DK
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/2913.ts
+#EXTINF:-1,MTV 3 FHD VIP NO
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/14500.ts
+#EXTINF:-1,MTV Norge NO
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/8759.ts
+#EXTINF:-1,MTV 3 FHD VIP FI
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/9165.ts
+#EXTINF:-1,MTV 3 HD FI
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/3908.ts
+#EXTINF:-1,MTV Junior FI
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/3910.ts
+#EXTINF:-1,MTV SE
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/2997.ts
+#EXTINF:-1,MTV Nordic VIP SE
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/9599.ts
+#EXTINF:-1,MTV Base HD US
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/7744.ts
+#EXTINF:-1,MTV Rocks US
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/494.ts
+#EXTINF:-1,MTV FHD VIP Latin America
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/11279.ts
+#EXTINF:-1,MTV Latino Hits Latin America
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/5348.ts
+#EXTINF:-1,MTV Latino Latin America
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/5349.ts
+#EXTINF:-1,MTV VIP Latin America
+http://iptvgva.ddns.net:8080/live/NgHa6WTRHP/9mMeqY226A/11683.ts
